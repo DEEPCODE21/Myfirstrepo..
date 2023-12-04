@@ -1,4 +1,4 @@
 # Myfirstrepo..
-This is my first git repository.
+I an Creating my first repository.
 <br>
 Coder - Deepak Gupta
